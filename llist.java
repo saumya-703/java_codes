@@ -10,7 +10,7 @@ public class llist {
         }
     }
     Node head=null;
-    //Instreation at the begining
+    //Insertion at the begining
     void creation(){
         int data,n;
         Scanner sc= new Scanner(System.in);
